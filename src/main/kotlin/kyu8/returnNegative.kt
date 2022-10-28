@@ -1,4 +1,4 @@
-package `8 KYU`
+package kyu8
 
 fun main() {
 	println(returnNegative(1))

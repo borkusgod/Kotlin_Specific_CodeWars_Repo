@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5800d46-a835-444d-b86c-b3a1550e6bda" name="Changes" comment="Just getting started on Kotlin practice. Love how the challenges get you framed for finding solutions and half the time it's the CodeWars interface that is the obstacle. Lol">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/8 KYU/evenOrOdd.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/8 KYU/evenOrOddInstuctions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/8 KYU/oppositeNumber.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/8 KYU/oppositeNumberInstructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Scratch/scratch.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +39,11 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
     "show.migrate.to.gradle.popup": "false"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "kotlin"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -109,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666979918824</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Just getting started on Kotlin practice. Love how the challenges get you framed for finding solutions and half the time it's the CodeWars interface that is the obstacle. Lol">
+      <created>1666981393364</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666981393364</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
