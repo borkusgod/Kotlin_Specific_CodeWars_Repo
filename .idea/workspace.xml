@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5800d46-a835-444d-b86c-b3a1550e6bda" name="Changes" comment="Just getting started on Kotlin practice. Love how the challenges get you framed for finding solutions and half the time it's the CodeWars interface that is the obstacle. Lol" />
+    <list default="true" id="a5800d46-a835-444d-b86c-b3a1550e6bda" name="Changes" comment="Just getting started on Kotlin practice. Love how the challenges get you framed for finding solutions and half the time it's the CodeWars interface that is the obstacle. Lol">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/8 KYU/evenOrOdd.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/8 KYU/evenOrOddInstuctions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/8 KYU/oppositeNumber.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/8 KYU/oppositeNumberInstructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,9 +44,28 @@
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IntellijKotlinProjects\CodeWars\Kotlin_Specific_CodeWars_Repo\src\main\kotlin\8 KYU\returnNegative" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.OppositeNumberKt">
+    <configuration name="EvenOrOddKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="8 KYU.EvenOrOddKt" />
+      <module name="Kotlin_Specific_CodeWars_Repo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OppositeNumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="8 KYU.OppositeNumberKt" />
+      <module name="Kotlin_Specific_CodeWars_Repo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReturnNegativeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="8 KYU.ReturnNegativeKt" />
+      <option name="MAIN_CLASS_NAME" value="8 KYU.returnNegative.ReturnNegativeKt" />
       <module name="Kotlin_Specific_CodeWars_Repo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -48,6 +73,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.OppositeNumberKt" />
+        <item itemvalue="Kotlin.EvenOrOddKt" />
         <item itemvalue="Kotlin.ReturnNegativeKt" />
       </list>
     </recent_temporary>
@@ -68,7 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666979738632</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Just getting started on Kotlin practice. Love how the challenges get you framed for finding solutions and half the time it's the CodeWars interface that is the obstacle. Lol">
+      <created>1666979835993</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666979835993</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Just getting started on Kotlin practice. Love how the challenges get you framed for finding solutions and half the time it's the CodeWars interface that is the obstacle. Lol">
+      <created>1666979918824</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666979918824</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
