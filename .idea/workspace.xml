@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5800d46-a835-444d-b86c-b3a1550e6bda" name="Changes" comment="Just getting started on Kotlin practice. Love how the challenges get you framed for finding solutions and half the time it's the CodeWars interface that is the obstacle. Lol">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/removingWhiteSpace.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/removingWhiteSpaceInstructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/sumOfPositive.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/sumOfPositiveInstructions.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Scratch/scratch.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Scratch/scratch.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kyu8/smallestIntInArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/smallestIntInArray.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,23 +53,9 @@
       <recent name="D:\IntellijKotlinProjects\CodeWars\Kotlin_Specific_CodeWars_Repo\src\main\kotlin\8 KYU\returnNegative" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.RemovingWhiteSpaceKt">
-    <configuration name="EvenOrOddKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kyu8.EvenOrOddKt" />
-      <module name="Kotlin_Specific_CodeWars_Repo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.SumOfPositiveKt">
     <configuration name="KeepHydratedKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kyu8.KeepHydratedKt" />
-      <module name="Kotlin_Specific_CodeWars_Repo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OppositeNumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kyu8.OppositeNumberKt" />
       <module name="Kotlin_Specific_CodeWars_Repo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,13 +75,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SmallestIntInArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kyu8.SmallestIntInArrayKt" />
+      <module name="Kotlin_Specific_CodeWars_Repo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfPositiveKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kyu8.SumOfPositiveKt" />
+      <module name="Kotlin_Specific_CodeWars_Repo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SumOfPositiveKt" />
+        <item itemvalue="Kotlin.SmallestIntInArrayKt" />
         <item itemvalue="Kotlin.RemovingWhiteSpaceKt" />
         <item itemvalue="Kotlin.ScratchKt" />
         <item itemvalue="Kotlin.KeepHydratedKt" />
-        <item itemvalue="Kotlin.OppositeNumberKt" />
-        <item itemvalue="Kotlin.EvenOrOddKt" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666983489584</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Just getting started on Kotlin practice. Love how the challenges get you framed for finding solutions and half the time it's the CodeWars interface that is the obstacle. Lol">
+      <created>1667001654213</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667001654213</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
