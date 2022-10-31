@@ -2,6 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5800d46-a835-444d-b86c-b3a1550e6bda" name="Changes" comment="Just getting started on Kotlin practice. Love how the challenges get you framed for finding solutions and half the time it's the CodeWars interface that is the obstacle. Lol">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/countPositivesSumNegatives.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/countPositivesSumNegativesInstructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/nDivisibleByXandY.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/nDivisibleByXandYInstructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/oppositedAttract.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/oppositesAttractInstructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/removeFirstAndLastChar.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/removeFirstAndLastInstructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/returnString.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/returnStringInstructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/reverseArrayOfNumbers.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/reverseArrayOfNumbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/stringSplitter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/stringSplitterInstruction.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/stringToNumber.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/stringToNumberInstructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/summationOfNumber.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/summationOfNumberInstructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/toUpper.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/toUpperInstructions.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +57,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "show.migrate.to.gradle.popup": "false"
   },
   "keyToStringList": {
@@ -50,37 +71,37 @@
       <recent name="D:\IntellijKotlinProjects\CodeWars\Kotlin_Specific_CodeWars_Repo\src\main\kotlin\8 KYU\returnNegative" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.SumOfPositiveKt">
-    <configuration name="KeepHydratedKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kyu8.KeepHydratedKt" />
+  <component name="RunManager" selected="Kotlin.OppositedAttractKt">
+    <configuration name="CountPositivesSumNegativesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kyu8.CountPositivesSumNegativesKt" />
       <module name="Kotlin_Specific_CodeWars_Repo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemovingWhiteSpaceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kyu8.RemovingWhiteSpaceKt" />
+    <configuration name="NDivisibleByXandYKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kyu8.NDivisibleByXandYKt" />
       <module name="Kotlin_Specific_CodeWars_Repo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScratchKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scratch.ScratchKt" />
+    <configuration name="OppositedAttractKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kyu8.OppositedAttractKt" />
       <module name="Kotlin_Specific_CodeWars_Repo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallestIntInArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kyu8.SmallestIntInArrayKt" />
+    <configuration name="ReturnStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kyu8.ReturnStringKt" />
       <module name="Kotlin_Specific_CodeWars_Repo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfPositiveKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kyu8.SumOfPositiveKt" />
+    <configuration name="SummationOfNumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kyu8.SummationOfNumberKt" />
       <module name="Kotlin_Specific_CodeWars_Repo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.SumOfPositiveKt" />
-        <item itemvalue="Kotlin.SmallestIntInArrayKt" />
-        <item itemvalue="Kotlin.RemovingWhiteSpaceKt" />
-        <item itemvalue="Kotlin.ScratchKt" />
-        <item itemvalue="Kotlin.KeepHydratedKt" />
+        <item itemvalue="Kotlin.OppositedAttractKt" />
+        <item itemvalue="Kotlin.NDivisibleByXandYKt" />
+        <item itemvalue="Kotlin.CountPositivesSumNegativesKt" />
+        <item itemvalue="Kotlin.ReturnStringKt" />
+        <item itemvalue="Kotlin.SummationOfNumberKt" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667004013097</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Just getting started on Kotlin practice. Love how the challenges get you framed for finding solutions and half the time it's the CodeWars interface that is the obstacle. Lol">
+      <created>1667074412003</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667074412004</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
