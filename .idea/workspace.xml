@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5800d46-a835-444d-b86c-b3a1550e6bda" name="Changes" comment="Just updating the files that weren't committed last time" />
+    <list default="true" id="a5800d46-a835-444d-b86c-b3a1550e6bda" name="Changes" comment="Just updating the files that weren't committed last time">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/beginnerSeries2Clock.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/beginnerSeries2ClockInstructions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +60,14 @@
       <recent name="D:\IntellijKotlinProjects\CodeWars\Kotlin_Specific_CodeWars_Repo\src\main\kotlin\8 KYU\returnNegative" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.SumMixedArrayKt">
+  <component name="RunManager" selected="Kotlin.BeginnerSeries2ClockKt">
+    <configuration name="BeginnerSeries2ClockKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kyu8.BeginnerSeries2ClockKt" />
+      <module name="Kotlin_Specific_CodeWars_Repo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CatDogYearConverterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kyu8.CatDogYearConverterKt" />
       <module name="Kotlin_Specific_CodeWars_Repo" />
@@ -64,15 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NDivisibleByXandYKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kyu8.NDivisibleByXandYKt" />
-      <module name="Kotlin_Specific_CodeWars_Repo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OppositedAttractKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kyu8.OppositedAttractKt" />
+    <configuration name="ReturnNegativeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kyu8.ReturnNegativeKt" />
       <module name="Kotlin_Specific_CodeWars_Repo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BeginnerSeries2ClockKt" />
+        <item itemvalue="Kotlin.ReturnNegativeKt" />
         <item itemvalue="Kotlin.SumMixedArrayKt" />
         <item itemvalue="Kotlin.CatDogYearConverterKt" />
         <item itemvalue="Kotlin.ScratchKt" />
-        <item itemvalue="Kotlin.OppositedAttractKt" />
-        <item itemvalue="Kotlin.NDivisibleByXandYKt" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671213516947</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Just updating the files that weren't committed last time">
+      <created>1671224510995</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1671224510995</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
