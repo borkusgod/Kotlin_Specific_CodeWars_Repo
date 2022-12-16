@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5800d46-a835-444d-b86c-b3a1550e6bda" name="Changes" comment="Just updating the files that weren't committed last time">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/beginnerSeries2Clock.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/beginnerSeries2ClockInstructions.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a5800d46-a835-444d-b86c-b3a1550e6bda" name="Changes" comment="banging out some more practice katas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -213,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671224510995</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="banging out some more practice katas">
+      <created>1671226656883</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1671226656883</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,7 +233,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Just getting started on Kotlin practice. Love how the challenges get you framed for finding solutions and half the time it's the CodeWars interface that is the obstacle. Lol" />
     <MESSAGE value="Just updating the files that weren't committed last time" />
-    <option name="LAST_COMMIT_MESSAGE" value="Just updating the files that weren't committed last time" />
+    <MESSAGE value="banging out some more practice katas" />
+    <option name="LAST_COMMIT_MESSAGE" value="banging out some more practice katas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
