@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5800d46-a835-444d-b86c-b3a1550e6bda" name="Changes" comment="Just getting started on Kotlin practice. Love how the challenges get you framed for finding solutions and half the time it's the CodeWars interface that is the obstacle. Lol">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Scratch/scratch2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Scratch/varTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/catDogYearConverter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/catDogYearConverterInstructions.txt" afterDir="false" />
+    <list default="true" id="a5800d46-a835-444d-b86c-b3a1550e6bda" name="Changes" comment="Just updating the files that weren't committed last time">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/sumMixedArray.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/kyu8/sumMixedArray.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Scratch/scratch.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Scratch/scratch.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,22 +36,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "D:/IntellijKotlinProjects/CodeWars/Kotlin_Specific_CodeWars_Repo/src/main/kotlin/Scratch",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IntellijKotlinProjects/CodeWars/Kotlin_Specific_CodeWars_Repo/src/main/kotlin/Scratch&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "kotlin"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;kotlin&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\IntellijKotlinProjects\CodeWars\Kotlin_Specific_CodeWars_Repo\src\main\kotlin\Scratch" />
@@ -60,16 +60,9 @@
       <recent name="D:\IntellijKotlinProjects\CodeWars\Kotlin_Specific_CodeWars_Repo\src\main\kotlin\8 KYU\returnNegative" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.CatDogYearConverterKt">
+  <component name="RunManager" selected="Kotlin.SumMixedArrayKt">
     <configuration name="CatDogYearConverterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="kyu8.CatDogYearConverterKt" />
-      <module name="Kotlin_Specific_CodeWars_Repo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountPositivesSumNegativesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kyu8.CountPositivesSumNegativesKt" />
       <module name="Kotlin_Specific_CodeWars_Repo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,13 +89,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumMixedArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kyu8.SumMixedArrayKt" />
+      <module name="Kotlin_Specific_CodeWars_Repo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SumMixedArrayKt" />
         <item itemvalue="Kotlin.CatDogYearConverterKt" />
         <item itemvalue="Kotlin.ScratchKt" />
         <item itemvalue="Kotlin.OppositedAttractKt" />
         <item itemvalue="Kotlin.NDivisibleByXandYKt" />
-        <item itemvalue="Kotlin.CountPositivesSumNegativesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667217379960</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Just updating the files that weren't committed last time">
+      <created>1671209312240</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1671209312240</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,7 +208,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Just getting started on Kotlin practice. Love how the challenges get you framed for finding solutions and half the time it's the CodeWars interface that is the obstacle. Lol" />
-    <option name="LAST_COMMIT_MESSAGE" value="Just getting started on Kotlin practice. Love how the challenges get you framed for finding solutions and half the time it's the CodeWars interface that is the obstacle. Lol" />
+    <MESSAGE value="Just updating the files that weren't committed last time" />
+    <option name="LAST_COMMIT_MESSAGE" value="Just updating the files that weren't committed last time" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
